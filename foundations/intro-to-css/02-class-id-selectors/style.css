@@ -11,3 +11,9 @@
 .odd-numbers.third-element {
     font-size: 24px;
 }
+
+#fourth-element {
+    background: #88E788;
+    font-size: 24px;
+    font-weight: bold;
+}
